@@ -36,5 +36,5 @@ def jpeg_to_svg(jpeg_path, svg_path):
 
 if __name__ == '__main__':
     jpeg_path = sys.argv[1]
-    sig_path = sys.argv[2] + '.' + sys.argv[3]
+    sig_path = sys.argv[2] + '.svg'
     jpeg_to_svg(jpeg_path, sig_path)
