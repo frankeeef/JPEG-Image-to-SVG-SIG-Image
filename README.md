@@ -1,1 +1,19 @@
 
+# JPEG to SVG Conversion using OpenCV and svgwrite
+
+This Python script converts a JPEG image to an SVG file and make it black and white using OpenCV and svgwrite libraries. It is designed for storing signatures virtually for people to use when signing agreements and contracts.
+
+
+## Authors
+
+- [@frankeeef](https://www.github.com/frankeeef)
+
+
+## Documentation
+
+[How to use](https://github.com/frankeeef/JPEG-Image-to-SVG-SIG-Image/wiki/How-to-use-this-repo)
+
+
+![Logo](https://lh3.googleusercontent.com/Xh5lLVbPDa-adOwFndSNAkQAYT9U4cFgWJLIJYdt_gq4M77W7R26MY-FdUBlsLnxlfSXcZlqxFYS0kmZU7ytCCIaMFmlJlbCM3NOC_XxWfUTl1By5IrtkHBBxNroySS5L0aIUZ1JhkCfSuLMgHCrL4HyJ9gF7bP30-c_4p5xaj1EuEqnliaZfXBtKRogBjzFSiUn6iTP8pJ-QP0gzPzq-Xqd-esFrCUf3755Yt4hn_6ANGyeROvN7IV0Byuwh9YuwPQ3kbCptakCG4nLM7jTOp--nNGADt6XSRKRr72gyMyDO_38dYgvAUlIa0-1zyjIsQBoFoyFG7uV7173U6Xa7x3aMchVU8tJr6vYetEn06QY58xGJAHVELG5t0erkPrQgPTfAFU0hXVCok3cXlSPMz7DCN6Wg_zmV0WXAdorlA88UKdhezal1zFr-4GZ5rI-_bYJhvNrA-T4RFjJ_1ZEap5JgkJiG0bnQI_pnKgUnkXLvvK9Q-T4mUJsiWIqmk-oflMiy7xH0bCm7ycXMuZe11VBctdeOIc4k2FHj7CSWepQgPLhKsDeOOVe5CzX2PGZC2yTXd-JeI90KML-eKl4e06uJFCHTrNL5WbJLGGAfcHOCt8g9ZC3jCGu6qycSh2gSc6923kxjIxdoZ_M_eNWZCIq5RNhgxs-B2lKtsjXUt8Dl1YN6gcaKLUXE4LOcDSo3INcWIBxmSO99C3sd5ASLjnKlzej62ND88_8xmUib9O5CtmM9fiVCzvUjsOSAGhThEmjENOetbJlRL1MjdldVe7w9GVPRdqoa2HReRuBIHlYQoZYyJZriGp3U57tHATT7gfnYv3DGUpE6g-X3usrkWAYtj8Bbb-y_Jkc4EeRi1IHTJTdwcTOMA1JpFQmX4s6gISrXofWyLr0SxmRNmcQi_U_rus9pasxkthDgF1qO1IrbzlKH-Naoyt_YwQ-2rY8Jw2vx_O6cwHKOyr94m3z5RLcMdJvkNkC4kESJ1wQxnbPr7t21Ietmw=w1737-h977-s-no?authuser=0)
+
+
